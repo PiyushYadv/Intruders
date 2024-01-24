@@ -37,5 +37,5 @@ Access historical data and charts to analyze the performance of cryptocurrencies
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PiyushYadav/Intruders.git
+   git clone https://github.com/PiyushYadv/Intruders.git
    cd CryptoTracker
