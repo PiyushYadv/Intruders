@@ -28,7 +28,6 @@ Access historical data and charts to analyze the performance of cryptocurrencies
 
 - **Frontend:** HTML, CSS
 - **Backend:** JavaScript
-- **Database:** MongoDB
 - **Real-time Updates:** WebSocket (Socket.io)
 - **API Integration:** CoinGecko API
 
